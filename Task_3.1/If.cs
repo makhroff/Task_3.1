@@ -61,7 +61,7 @@
         public static double Task_27(double x)
         {
             if (x < 0) return 0;
-            if (x % 2 == 0) return 1;
+            if ((int)x % 2 == 0) return 1;
             return -1;
         }
         public static string Task_30(int num)

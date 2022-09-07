@@ -1,6 +1,6 @@
 ﻿namespace Task_3._1
 {
-    static class Integer
+    class Integer : AbramyanTasks
     {
         public static int Task_1(int distanceInCentimeters) => distanceInCentimeters / 100;
         public static int Task_3(int sizeInBytes) => sizeInBytes / 1024;

@@ -1,6 +1,6 @@
 ﻿namespace Task_3._1
 {
-    static class If
+    class If : AbramyanTasks
     {
         public static int Task_1(int number)
         {

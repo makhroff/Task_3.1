@@ -2,7 +2,7 @@
 
 namespace Task_3._1
 {
-    static class Program
+    class AbramyanTasks
     {
         private static void Main(string[] args)
         {

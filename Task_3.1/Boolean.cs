@@ -1,6 +1,6 @@
 ﻿namespace Task_3._1
 {
-    static class Boolean
+    class Boolean : AbramyanTasks
     {
         public static bool Task_1(int number) => number >= 0;
         public static bool Task_3(int number) => number % 2 == 0;

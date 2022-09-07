@@ -15,7 +15,7 @@ namespace Task_3._1
             Integer.Task_12(875).Print();
             Integer.Task_15(123).Print();
             Integer.Task_18(535749683).Print();
-            Integer.Task_21(84600).Print();
+            Integer.Task_21(84601).Print();
             Integer.Task_24(365).Print();
             Integer.Task_27(365).Print();
             Integer.Task_30(2022).Print();

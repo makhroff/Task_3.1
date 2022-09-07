@@ -25,7 +25,7 @@
         }
 
         public static int Task_18(int number) => number % 10000 / 1000;
-        public static int Task_21(int seconds) => seconds / 3600;
+        public static int Task_21(int seconds) => seconds % 60;
         public static int Task_24(int numberOfDay) => numberOfDay % 7;
         public static int Task_27(int numberOfDay) => (numberOfDay + 4) % 7 + 1;
         public static int Task_30(int year) => year / 100 + 1;
